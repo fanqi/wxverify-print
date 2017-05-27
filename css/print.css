@@ -1,0 +1,16 @@
+.head, .print_meta, .tool_bar, .foot, .no_printer_tips, .need_hide {
+    display: none !important
+}
+
+.container_box, .print_body {
+    border: none !important
+}
+
+.container_box {
+    padding: 0;
+    margin-right: 100px
+}
+
+body {
+    font-size: 130%
+}
