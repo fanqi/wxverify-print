@@ -2,7 +2,7 @@
 
 觉得微信公众平台认证公函的打印功能体验很不错，就拿过来学习一下。
 
-大家也可以访问 [demo](http://fanqi.github.io/wxverify-print/) 
+大家也可以访问 [demo](http://fanqi.github.io/wxverify-print/) 体验效果。
 
 ## 技术要点
 
@@ -24,4 +24,3 @@
 ### 打印效果
 ![打印效果](images/print.jpg)
 
-大家也可以访问 [demo](http://fanqi.github.io/wxverify-print/) 自行体验。
